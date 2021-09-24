@@ -1,6 +1,6 @@
 ---
 title: International Technical Standards
-subtitle: Brand Development
+subtitle: High-Tech Geopolitics
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
