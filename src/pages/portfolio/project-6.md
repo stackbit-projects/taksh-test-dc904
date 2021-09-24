@@ -15,7 +15,7 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
+    content: 
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
       accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
       Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
