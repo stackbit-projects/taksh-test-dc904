@@ -14,7 +14,7 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+      arcu accumsan lorem amet accumsan.    
   - type: image_section
     image: images/work-photography-magazine-1.jpg
     image_alt: Subtle 1
