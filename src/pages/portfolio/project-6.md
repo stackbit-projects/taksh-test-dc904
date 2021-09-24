@@ -5,7 +5,7 @@ date: '2021-09-24'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections:
-- type: text_section
+  - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
       accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
