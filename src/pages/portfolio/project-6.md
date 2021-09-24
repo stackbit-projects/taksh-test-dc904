@@ -10,11 +10,6 @@ sections:
       > The next geopolitical tussle between technologically advanced states
       will be the race to set technical standards in critical and emerging
       technologies.  What should India’s approach be
-  - type: image_section
-    image: images/work-photography-magazine-1.jpg
-    image_alt: Subtle 1
-    caption: This is the caption of the image
-    width: wide
   - content: >-
       ## Lorem ipsum
 
@@ -27,6 +22,11 @@ sections:
 
       - dolor sit amet
     type: text_section
+  - type: image_section
+    image: images/work-photography-magazine-1.jpg
+    image_alt: Subtle 1
+    caption: This is the caption of the image
+    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
