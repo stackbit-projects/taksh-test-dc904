@@ -1,7 +1,7 @@
 ---
 title: International Technical Standards
 subtitle: High-Tech Geopolitics
-date: '2021-02-06'
+date: '2021-09-24'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections:
