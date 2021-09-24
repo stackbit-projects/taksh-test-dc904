@@ -5,6 +5,7 @@ date: '2021-09-24'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections:
+  - type: s
   - type: image_section
     image: images/work-photography-magazine-1.jpg
     image_alt: Subtle 1
