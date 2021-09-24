@@ -6,7 +6,7 @@ thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: text_section
-    content: >
+    content: >-
       > The next geopolitical tussle between technologically advanced states
       will be the race to set technical standards in critical and emerging
       technologies.  What should India’s approach be?
