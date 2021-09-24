@@ -38,7 +38,9 @@ export default class Project extends React.Component {
                       let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
                       let Component = components[component];
                       return (
+                        <>
                         <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
+                        </>
                       )
                   })}
               </div>
