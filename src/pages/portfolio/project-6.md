@@ -16,10 +16,6 @@ sections:
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
     width: wide
-  - type: image_section
-    image: images/work-photography-magazine-3.jpg
-    image_alt: Subtle 3
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
